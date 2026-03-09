@@ -1,0 +1,491 @@
+{
+  "contributors": [
+    {
+      "login": "SergioRibera",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56278796?v=4",
+      "url": "https://github.com/SergioRibera",
+      "bio": "23yo Rustacean and Open Source lover\r\nI teach, Promote and Give Technical talks of rust with @RustLangES ",
+      "twitter_username": "sergioribera_rs",
+      "location": "Santa Cruz de la Sierra, Bolivia",
+      "contributions": 1096
+    },
+    {
+      "login": "Phosphorus-M",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19656993?v=4",
+      "url": "https://github.com/Phosphorus-M",
+      "bio": "",
+      "twitter_username": "Phosphorus_M",
+      "location": "Argentina",
+      "contributions": 574
+    },
+    {
+      "login": "Juanperias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136520331?v=4",
+      "url": "https://github.com/Juanperias",
+      "bio": "14 years old\r\nOS Development Enthusiast\r\n",
+      "twitter_username": null,
+      "location": "Venezuela",
+      "contributions": 462
+    },
+    {
+      "login": "Brayan-724",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70247585?v=4",
+      "url": "https://github.com/Brayan-724",
+      "bio": "18yo ex-Rustacean and ex-Open Source lover, ex-Promoter @RustLangES and ex-ample",
+      "twitter_username": null,
+      "location": "Mexico",
+      "contributions": 323
+    },
+    {
+      "login": "stifskere",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79871802?v=4",
+      "url": "https://github.com/stifskere",
+      "bio": "@memw is taken by an unused account. 🥀💔 ",
+      "twitter_username": null,
+      "location": "Catalonia, Spain",
+      "contributions": 64
+    },
+    {
+      "login": "Wilovy09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68057133?v=4",
+      "url": "https://github.com/Wilovy09",
+      "bio": "Self-taught dev, fullstack lover and rust backend.",
+      "twitter_username": null,
+      "location": "Mexico",
+      "contributions": 61
+    },
+    {
+      "login": "gxskpo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97119998?v=4",
+      "url": "https://github.com/gxskpo",
+      "bio": "Me gustan las arañas",
+      "twitter_username": null,
+      "location": null,
+      "contributions": 58
+    },
+    {
+      "login": "CrawKatt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108593932?v=4",
+      "url": "https://github.com/CrawKatt",
+      "bio": "Aprendiz de Rust, estudiante autodidacta, usuario de Arch Linux, Actualmente trabajo haciendo Mods de Minecraft en Java para Forge y Fabric",
+      "twitter_username": "CrawKatt",
+      "location": null,
+      "contributions": 55
+    },
+    {
+      "login": "Gelois0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115365052?v=4",
+      "url": "https://github.com/Gelois0",
+      "bio": "",
+      "twitter_username": "Gelois_0",
+      "location": null,
+      "contributions": 50
+    },
+    {
+      "login": "quijadajose",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57696252?v=4",
+      "url": "https://github.com/quijadajose",
+      "bio": "Desarrollador backend autodidacta, apasionado por crear soluciones escalables y seguras.",
+      "twitter_username": null,
+      "location": null,
+      "contributions": 49
+    },
+    {
+      "login": "MarioYellowy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111405389?v=4",
+      "url": "https://github.com/MarioYellowy",
+      "bio": "The life is good",
+      "twitter_username": null,
+      "location": "Mexico",
+      "contributions": 36
+    },
+    {
+      "login": "krovuxdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62192487?v=4",
+      "url": "https://github.com/krovuxdev",
+      "bio": "Rustacean, NixOS/Arch user, digital designer, self-taught Rust developer, and programming lover.",
+      "twitter_username": null,
+      "location": "Colombia",
+      "contributions": 35
+    },
+    {
+      "login": "ikurotime",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77805983?v=4",
+      "url": "https://github.com/ikurotime",
+      "bio": "Software Engineer",
+      "twitter_username": "ikurotime",
+      "location": "Spain",
+      "contributions": 35
+    },
+    {
+      "login": "jd-apprentice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68082746?v=4",
+      "url": "https://github.com/jd-apprentice",
+      "bio": "",
+      "twitter_username": null,
+      "location": "Argentina",
+      "contributions": 30
+    },
+    {
+      "login": "ArturoAtomplay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64356325?v=4",
+      "url": "https://github.com/ArturoAtomplay",
+      "bio": "",
+      "twitter_username": null,
+      "location": null,
+      "contributions": 26
+    },
+    {
+      "login": "gg0074x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74442646?v=4",
+      "url": "https://github.com/gg0074x",
+      "bio": "coding the ultimate useless piece of software",
+      "twitter_username": null,
+      "location": "/dev/null",
+      "contributions": 26
+    },
+    {
+      "login": "Josem1801",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30446712?v=4",
+      "url": "https://github.com/Josem1801",
+      "bio": "",
+      "twitter_username": "JoseRosa09",
+      "location": "Oaxaca",
+      "contributions": 23
+    },
+    {
+      "login": "Loken1016",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174745441?v=4",
+      "url": "https://github.com/Loken1016",
+      "bio": "Programmer,\r\nGraphic designer,\r\nRust lover",
+      "twitter_username": null,
+      "location": "Mars",
+      "contributions": 22
+    },
+    {
+      "login": "Lemin-n",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88170949?v=4",
+      "url": "https://github.com/Lemin-n",
+      "bio": "",
+      "twitter_username": null,
+      "location": "Río Gallegos",
+      "contributions": 21
+    },
+    {
+      "login": "arceprogramando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85712228?v=4",
+      "url": "https://github.com/arceprogramando",
+      "bio": "DEV",
+      "twitter_username": null,
+      "location": "Argentina",
+      "contributions": 18
+    },
+    {
+      "login": "romancitodev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84428770?v=4",
+      "url": "https://github.com/romancitodev",
+      "bio": "i didn't push to prod.",
+      "twitter_username": null,
+      "location": "Secret",
+      "contributions": 17
+    },
+    {
+      "login": "JonathanACO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115114575?v=4",
+      "url": "https://github.com/JonathanACO",
+      "bio": null,
+      "twitter_username": null,
+      "location": null,
+      "contributions": 15
+    },
+    {
+      "login": "Santiago-j-s",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4043417?v=4",
+      "url": "https://github.com/Santiago-j-s",
+      "bio": "",
+      "twitter_username": null,
+      "location": "Argentina, Buenos Aires",
+      "contributions": 14
+    },
+    {
+      "login": "ivanlynch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22094274?v=4",
+      "url": "https://github.com/ivanlynch",
+      "bio": "Frontend Software Engineer",
+      "twitter_username": null,
+      "location": "Brasil",
+      "contributions": 13
+    },
+    {
+      "login": "stivcode21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167272130?v=4",
+      "url": "https://github.com/stivcode21",
+      "bio": "🌎 Colombian, transforming ideas with code!",
+      "twitter_username": null,
+      "location": "Medellin",
+      "contributions": 13
+    },
+    {
+      "login": "DannyCeb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43941392?v=4",
+      "url": "https://github.com/DannyCeb",
+      "bio": "",
+      "twitter_username": null,
+      "location": "México",
+      "contributions": 13
+    },
+    {
+      "login": "michaelcardoza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8800455?v=4",
+      "url": "https://github.com/michaelcardoza",
+      "bio": "Coding enthusiast with proficiency in Python and GoLang.",
+      "twitter_username": "Mike_ErrNil",
+      "location": "Perú",
+      "contributions": 10
+    },
+    {
+      "login": "DaR3kDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211447529?v=4",
+      "url": "https://github.com/DaR3kDev",
+      "bio": "Encantado en este mundo de desarrollo a medida que voy aprendiendo y tomando experiencia sigo aprendiendo.",
+      "twitter_username": null,
+      "location": "Cartago Valle",
+      "contributions": 10
+    },
+    {
+      "login": "bryanlundberg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119996547?v=4",
+      "url": "https://github.com/bryanlundberg",
+      "bio": "Feeding the web one UI at a time.",
+      "twitter_username": null,
+      "location": "México",
+      "contributions": 10
+    },
+    {
+      "login": "RoboG-11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106283018?v=4",
+      "url": "https://github.com/RoboG-11",
+      "bio": "Software Engineer.\r\nPassionate about building and creating new things. Contributing to open-source projects and improving every day. 👨‍💻",
+      "twitter_username": null,
+      "location": "Mexico City",
+      "contributions": 10
+    },
+    {
+      "login": "llOrtegall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118630975?v=4",
+      "url": "https://github.com/llOrtegall",
+      "bio": "🖥️ \r\n\r\n#TypeScript\r\n#React\r\n#NodeJS\r\n\r\n",
+      "twitter_username": null,
+      "location": "Colombia - Bogotá",
+      "contributions": 10
+    },
+    {
+      "login": "Thanajor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96848877?v=4",
+      "url": "https://github.com/Thanajor",
+      "bio": "",
+      "twitter_username": null,
+      "location": null,
+      "contributions": 9
+    },
+    {
+      "login": "Judas9016",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169458287?v=4",
+      "url": "https://github.com/Judas9016",
+      "bio": "just live and don't code",
+      "twitter_username": null,
+      "location": "Antioquia, Medellín ",
+      "contributions": 8
+    },
+    {
+      "login": "pabloblgra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55832088?v=4",
+      "url": "https://github.com/pabloblgra",
+      "bio": "",
+      "twitter_username": null,
+      "location": null,
+      "contributions": 7
+    },
+    {
+      "login": "darilrt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7703770?v=4",
+      "url": "https://github.com/darilrt",
+      "bio": "",
+      "twitter_username": null,
+      "location": "Uruguay",
+      "contributions": 6
+    },
+    {
+      "login": "velascoandres",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12194462?v=4",
+      "url": "https://github.com/velascoandres",
+      "bio": "",
+      "twitter_username": null,
+      "location": "Quito - Ecuador",
+      "contributions": 6
+    },
+    {
+      "login": "lsproule",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109782202?v=4",
+      "url": "https://github.com/lsproule",
+      "bio": "Hi there I am Lucas Sproule 👋\r\n\r\nI built on a Neovim lsp plugin\r\n\r\nworking with golang",
+      "twitter_username": null,
+      "location": null,
+      "contributions": 6
+    },
+    {
+      "login": "xooseph",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49181840?v=4",
+      "url": "https://github.com/xooseph",
+      "bio": "",
+      "twitter_username": null,
+      "location": "México",
+      "contributions": 5
+    },
+    {
+      "login": "linuxmobile",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10554636?v=4",
+      "url": "https://github.com/linuxmobile",
+      "bio": "Seeking the essence of the void. A frontend developer from Argentina building interfaces that recede so code can breathe. Open to collaborative narratives.",
+      "twitter_username": "LinuDev",
+      "location": "Argentina",
+      "contributions": 5
+    },
+    {
+      "login": "thenatx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126206823?v=4",
+      "url": "https://github.com/thenatx",
+      "bio": "",
+      "twitter_username": null,
+      "location": "Colombia",
+      "contributions": 5
+    },
+    {
+      "login": "sergiomeneses",
+      "avatar_url": "https://avatars.githubusercontent.com/u/861458?v=4",
+      "url": "https://github.com/sergiomeneses",
+      "bio": null,
+      "twitter_username": null,
+      "location": "Bogotá",
+      "contributions": 4
+    },
+    {
+      "login": "Michael-Liendo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70660410?v=4",
+      "url": "https://github.com/Michael-Liendo",
+      "bio": "Software Developer focused on Web Apps and TypeScript with a passion for Web Development",
+      "twitter_username": "mykeliendo",
+      "location": "Venezuela",
+      "contributions": 2
+    },
+    {
+      "login": "blyxyas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73757586?v=4",
+      "url": "https://github.com/blyxyas",
+      "bio": " ✌️ Hi! --- Clippy team member @rust-lang, I try to make thingies faster.",
+      "twitter_username": null,
+      "location": "Vigo, Spain",
+      "contributions": 2
+    },
+    {
+      "login": "marc2332",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38158676?v=4",
+      "url": "https://github.com/marc2332",
+      "bio": "Lead Engineer of my side projects\r\n\r\nProbably coding while you read this",
+      "twitter_username": "mkenzo_8",
+      "location": "Barcelona, Spain",
+      "contributions": 2
+    },
+    {
+      "login": "NoHaxito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83735848?v=4",
+      "url": "https://github.com/NoHaxito",
+      "bio": "",
+      "twitter_username": null,
+      "location": "Argentina",
+      "contributions": 2
+    },
+    {
+      "login": "MoisesFigueroaV",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107101526?v=4",
+      "url": "https://github.com/MoisesFigueroaV",
+      "bio": "",
+      "twitter_username": null,
+      "location": "Concepcion, Chile",
+      "contributions": 2
+    },
+    {
+      "login": "tsenovilla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117524919?v=4",
+      "url": "https://github.com/tsenovilla",
+      "bio": "",
+      "twitter_username": null,
+      "location": null,
+      "contributions": 2
+    },
+    {
+      "login": "FiammaMuscari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75777030?v=4",
+      "url": "https://github.com/FiammaMuscari",
+      "bio": "",
+      "twitter_username": null,
+      "location": "Buenos Aires, Argentina",
+      "contributions": 1
+    },
+    {
+      "login": "Pando58",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80338911?v=4",
+      "url": "https://github.com/Pando58",
+      "bio": "",
+      "twitter_username": null,
+      "location": "Puebla, México",
+      "contributions": 1
+    },
+    {
+      "login": "04l3x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100656494?v=4",
+      "url": "https://github.com/04l3x",
+      "bio": "",
+      "twitter_username": null,
+      "location": null,
+      "contributions": 1
+    },
+    {
+      "login": "Miuler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9974?v=4",
+      "url": "https://github.com/Miuler",
+      "bio": "La programación es mi trabajo y mi hobby 🥷",
+      "twitter_username": "Miuler",
+      "location": "Perú",
+      "contributions": 1
+    },
+    {
+      "login": "AgustinRamiroDiaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49416765?v=4",
+      "url": "https://github.com/AgustinRamiroDiaz",
+      "bio": "",
+      "twitter_username": null,
+      "location": "Rosario, Argentina",
+      "contributions": 1
+    },
+    {
+      "login": "vicky5124",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8344197?v=4",
+      "url": "https://github.com/vicky5124",
+      "bio": "Main account in GitLab: https://gitlab.com/vicky5124/",
+      "twitter_username": "TransfemLinux",
+      "location": "Spain",
+      "contributions": 1
+    },
+    {
+      "login": "nglmercer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128845117?v=4",
+      "url": "https://github.com/nglmercer",
+      "bio": "streams lives desarrollo de programas y herramientas para twitch tiktok\r\nsoluciones interesantes y diversas con una complejidad de estructuramiento ",
+      "twitter_username": null,
+      "location": null,
+      "contributions": 1
+    }
+  ],
+  "total": 54
+}
